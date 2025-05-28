@@ -5,7 +5,9 @@
 #include "RoleType.hpp"
 #include "Game.hpp"
 
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 namespace coup {
 
 class Governor : public Player {

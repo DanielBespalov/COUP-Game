@@ -3,7 +3,9 @@
 #include <QMessageBox>
 
 using namespace coup;
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 StartDialog::StartDialog(QWidget *parent)
     : QDialog(parent) {
 

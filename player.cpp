@@ -2,7 +2,9 @@
 #include "Player.hpp"
 #include "Game.hpp"
 
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 namespace coup {
 
 Player::Player(Game &game, const std::string &name, RoleType role)

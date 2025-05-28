@@ -6,7 +6,9 @@
 #include <stdexcept>
 #include <unordered_map>
 #include "Player.hpp"
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 namespace coup {
 
 class Player;  // forward

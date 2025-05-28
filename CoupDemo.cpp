@@ -3,7 +3,9 @@
 #include "StartDialog.h"
 #include "Game.hpp"
 #include <QMessageBox>
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 using namespace coup;
 
 int main(int argc, char *argv[]) {

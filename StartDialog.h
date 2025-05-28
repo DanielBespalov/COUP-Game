@@ -8,7 +8,9 @@
 #include <QList>
 #include <memory>
 #include "Game.hpp"
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 class StartDialog : public QDialog {
     Q_OBJECT
 

@@ -8,7 +8,9 @@
 #include <QPair>
 #include <QSet>
 
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 using namespace coup;
 
 GameQtBridge bridge;

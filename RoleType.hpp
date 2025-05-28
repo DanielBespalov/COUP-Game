@@ -2,7 +2,9 @@
 #define COUP_ROLETYPE_HPP
 
 #include <string>
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 namespace coup {
 
 enum class RoleType {

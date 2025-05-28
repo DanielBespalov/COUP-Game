@@ -9,7 +9,9 @@
 #include "General.hpp"
 #include "Judge.hpp"
 #include "Merchant.hpp"
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 using namespace coup;
 
 TEST_CASE("Basic Gathering Round") {

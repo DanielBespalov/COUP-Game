@@ -1,6 +1,10 @@
 #ifndef COUP_BARON_HPP
 #define COUP_BARON_HPP
 
+/**
+ * danieldaniel2468@gmail.com
+ */
+
 #include "Player.hpp"
 #include "Game.hpp"
 

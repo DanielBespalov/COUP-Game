@@ -7,7 +7,9 @@
 #include <QString>
 #include <vector>
 #include <stdexcept>
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 namespace coup {
 
 class GameQtBridge {

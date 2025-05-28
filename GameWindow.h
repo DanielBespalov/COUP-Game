@@ -10,7 +10,9 @@
 #include <QString>
 
 #include "Game.hpp"
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 class GameWindow : public QMainWindow {
     Q_OBJECT
 

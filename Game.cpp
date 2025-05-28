@@ -3,7 +3,9 @@
 #include <algorithm>
 #include "GameQtBridge.hpp"
 #include "RoleType.hpp"
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 using namespace coup;
 
 // Helpers

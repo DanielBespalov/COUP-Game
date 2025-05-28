@@ -3,7 +3,9 @@
 
 #include <string>
 #include "RoleType.hpp"
-
+/**
+ * danieldaniel2468@gmail.com
+ */
 namespace coup {
 
 class Game; // Forward declaration 
